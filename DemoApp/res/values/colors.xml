@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="colorBlue">#6633B5E5</color>
+    
+    <color name="colorMenuSlide">#FFF8C6</color>
+    <color name="colorText">#817339</color>
+   
+</resources>

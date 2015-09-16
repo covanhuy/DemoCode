@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Settings</string>
+    <string name="desc_list_item_icon">Settings</string>
+    <!--
+    <string name="action_search">Settings</string>
+    <string name="action_search">Settings</string>
+    <string name="action_search">Settings</string>
+    -->
+
+
+    <!-- Nav Drawer Menu Items -->
+    <!-- hien thi o menuitems -->
+    <string-array name="array_Menu_items">
+        <item>Video</item>
+        <item>Mp3</item>
+        <item>Setting</item>
+        <item>Details</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="menu_drawer_icons">
+        <item>@drawable/ic_library_music</item>
+        <item>@drawable/ic_video_library</item>
+        <item>@drawable/ic_settings</item>
+    </array>
+
+    <string name="title_activity_play_video">PlayVideoActivity</string>
+
+</resources>
